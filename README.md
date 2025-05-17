@@ -57,12 +57,10 @@ Nicla-Portenta/
 
 ## 📚 Academic Context
 
-This work is conducted as part of the Master’s thesis in Electrical Engineering at [University Name], focused on embedded systems, sensor networks, and IoT data pipelines.
-
-> For academic use only. Please cite appropriately if using or referencing this work.
+--
 
 ---
 
 ## 📝 License
 
-TBD – Personal academic research use only for now.
+--
